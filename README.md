@@ -47,11 +47,3 @@ Ingeniero informático con pasión por la tecnología y el desarrollo de softwar
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Braisdlim&style=flat-square&color=blue" alt="Profile views"/>
-</div>
