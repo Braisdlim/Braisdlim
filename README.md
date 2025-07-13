@@ -1,4 +1,4 @@
-# 👋 Hola, soy Brais de la Iglesia Martínez
+# 👋 Hola, soy Brais
 
 <div align="center">
 
