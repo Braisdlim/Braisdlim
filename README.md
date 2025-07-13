@@ -4,9 +4,9 @@
 
 **Ingeniero Informático | Desarrollador Full Stack | Galicia, España**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://braisdlim.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/braisdlim)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braisdlim.tw@gmail.com)
 
 </div>
 
@@ -48,23 +48,7 @@ Ingeniero informático con pasión por la tecnología y el desarrollo de softwar
 
 </div>
 
-## 📂 Repositorios Principales
 
-- **[Portfolio Personal](https://github.com/Braisdlim/Portfolio_Brais)** - Mi portfolio profesional desarrollado con Astro
-- **[Spinventory](https://github.com/Braisdlim/Spinventory)** - Gestión de colecciones de discos de vinilo
-- **[MultithreadedEncryptionApp](https://github.com/Braisdlim/MultithreadedEncryptionApp)** - Aplicación de encriptación con paralelismo en C#
-
-## 🤝 Contacto
-
-<div align="center">
-
-**¿Interesado en colaborar o conocer más sobre mi trabajo?**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-FF5722?style=for-the-badge)](https://tu-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/braisdlim)
-[![Email](https://img.shields.io/badge/📧_Contacto-D14836?style=for-the-badge)](mailto:tu-email@gmail.com)
-
-</div>
 
 ---
 
