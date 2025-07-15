@@ -19,8 +19,6 @@ Ingeniero informático con pasión por la tecnología y el desarrollo de softwar
 - 🎓 **Grado en Ingeniería Informática**
 - 🌍 **Ubicación**: Galicia, España
 - 🎯 **Especialización**: Desarrollo Full Stack
-- 🌐 **Experiencia internacional**: Erasmus
-- 🎷 **Aficiones**: Música (saxofón), deporte e idiomas
 
 ## 💻 Tecnologías
 
